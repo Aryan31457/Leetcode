@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Aryan31457/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Aryan31457/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## String
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+## Depth-First Search
+|  |
+| ------- |
+| [0988-flip-equivalent-binary-trees](https://github.com/Aryan31457/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
