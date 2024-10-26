@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Recursion
 |  |
@@ -46,4 +47,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3195-separate-black-and-white-balls](https://github.com/Aryan31457/Leetcode/tree/master/3195-separate-black-and-white-balls) |
+## Array
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
