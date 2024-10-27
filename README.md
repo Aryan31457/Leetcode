@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [3195-separate-black-and-white-balls](https://github.com/Aryan31457/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
+| [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Recursion
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
+| [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 ## Matrix
 |  |
 | ------- |
