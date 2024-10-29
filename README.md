@@ -64,12 +64,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2245-destroying-asteroids](https://github.com/Aryan31457/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
