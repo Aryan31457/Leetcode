@@ -10,8 +10,8 @@ public:
 
             last+='/';
 
-            if(folder[i].compare(0,last.size(),last)!=0){
-                ans.push_back(folder[i]);
+            if (folder[i].substr(0, last.size()) != last) {
+            ans.push_back(folder[i]);
             }
         }
         return ans;
