@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aryan31457/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2245-destroying-asteroids](https://github.com/Aryan31457/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
+## Sliding Window
+|  |
+| ------- |
+| [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 <!---LeetCode Topics End-->
