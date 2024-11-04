@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Aryan31457/Leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aryan31457/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [3195-separate-black-and-white-balls](https://github.com/Aryan31457/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
