@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan31457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Aryan31457/Leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan31457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryan31457/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan31457/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Aryan31457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan31457/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan31457/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
