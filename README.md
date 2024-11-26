@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/Aryan31457/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
