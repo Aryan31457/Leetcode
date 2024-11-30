@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan31457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Aryan31457/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [0812-rotate-string](https://github.com/Aryan31457/Leetcode/tree/master/0812-rotate-string) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan31457/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
 | [3195-separate-black-and-white-balls](https://github.com/Aryan31457/Leetcode/tree/master/3195-separate-black-and-white-balls) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Aryan31457/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
