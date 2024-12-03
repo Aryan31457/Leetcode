@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aryan31457/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aryan31457/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryan31457/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2580-circular-sentence](https://github.com/Aryan31457/Leetcode/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan31457/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryan31457/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [3195-separate-black-and-white-balls](https://github.com/Aryan31457/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Greedy
 |  |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2245-destroying-asteroids](https://github.com/Aryan31457/Leetcode/tree/master/2245-destroying-asteroids) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryan31457/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryan31457/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
+| [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryan31457/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 ## Matrix
