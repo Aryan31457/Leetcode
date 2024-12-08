@@ -6,8 +6,10 @@ public:
        string start2=event2[0];
        string end2=event2[1];
 
-       return (start1<=end2 && end1>=start2);
-      
+       if(start1<=end2 && end1 >=start2){
+        return true;
+       } 
+       return false;
 
     }
 };
