@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3114-beautiful-towers-i](https://github.com/Aryan31457/Leetcode/tree/master/3114-beautiful-towers-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryan31457/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3427-special-array-ii](https://github.com/Aryan31457/Leetcode/tree/master/3427-special-array-ii) |
+| [3429-special-array-i](https://github.com/Aryan31457/Leetcode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
