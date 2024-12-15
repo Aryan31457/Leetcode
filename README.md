@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Aryan31457/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aryan31457/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
