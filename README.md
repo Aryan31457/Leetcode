@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Aryan31457/Leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Aryan31457/Leetcode/tree/master/0231-power-of-two) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 ## Depth-First Search
 |  |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Aryan31457/Leetcode/tree/master/0231-power-of-two) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryan31457/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Aryan31457/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/Aryan31457/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
+| [0231-power-of-two](https://github.com/Aryan31457/Leetcode/tree/master/0231-power-of-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryan31457/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
