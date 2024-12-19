@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Aryan31457/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aryan31457/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryan31457/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aryan31457/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Aryan31457/Leetcode/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan31457/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan31457/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan31457/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/Aryan31457/Leetcode/tree/master/3427-special-array-ii) |
 ## Graph
@@ -295,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/Aryan31457/Leetcode/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Aryan31457/Leetcode/tree/master/0231-power-of-two) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryan31457/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
