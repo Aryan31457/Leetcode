@@ -14,6 +14,6 @@ public:
                 s=mid+1;
             }
         }
-        return k+e+1;
+        return k+s;
     }
 };
