@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Aryan31457/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Aryan31457/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Aryan31457/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
@@ -295,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Aryan31457/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
