@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aryan31457/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan31457/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan31457/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Aryan31457/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Aryan31457/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -287,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan31457/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [3427-special-array-ii](https://github.com/Aryan31457/Leetcode/tree/master/3427-special-array-ii) |
 ## Graph
