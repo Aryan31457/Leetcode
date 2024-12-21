@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
+| [0890-lemonade-change](https://github.com/Aryan31457/Leetcode/tree/master/0890-lemonade-change) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Aryan31457/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aryan31457/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
+| [0890-lemonade-change](https://github.com/Aryan31457/Leetcode/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Aryan31457/Leetcode/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/Aryan31457/Leetcode/tree/master/1034-subarrays-with-k-different-integers) |
