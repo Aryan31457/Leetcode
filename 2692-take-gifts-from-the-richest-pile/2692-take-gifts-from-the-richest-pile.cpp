@@ -13,7 +13,7 @@ public:
         }
         long long ans=0;
         while(!pq.empty()){
-            cout<<pq.top()<<" ";
+            // cout<<pq.top()<<" ";
             ans+=pq.top();
             pq.pop();
         }
