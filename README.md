@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
 | [2164-two-best-non-overlapping-events](https://github.com/Aryan31457/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Aryan31457/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Aryan31457/Leetcode/tree/master/0890-lemonade-change) |
 | [1346-maximize-the-topmost-element-after-k-moves](https://github.com/Aryan31457/Leetcode/tree/master/1346-maximize-the-topmost-element-after-k-moves) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Aryan31457/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
