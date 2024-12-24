@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aryan31457/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan31457/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Aryan31457/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan31457/Leetcode/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan31457/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Aryan31457/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/Aryan31457/Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Aryan31457/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
