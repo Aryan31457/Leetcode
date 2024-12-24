@@ -228,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Aryan31457/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Aryan31457/Leetcode/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Aryan31457/Leetcode/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
+| [2737-row-with-maximum-ones](https://github.com/Aryan31457/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Aryan31457/Leetcode/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Aryan31457/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryan31457/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2737-row-with-maximum-ones](https://github.com/Aryan31457/Leetcode/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Hash Table
 |  |
