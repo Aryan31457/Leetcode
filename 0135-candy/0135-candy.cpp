@@ -22,6 +22,13 @@ public:
                 ans+=cnt1;
                 i++;
             }
+
+
+            //    /
+            //   / 
+            //  /  \
+            // /    \
+            //ek point pr overlap hoga isliye uska mini minus krn padega
             ans-=min(cnt,cnt1);
         }
         return ans;
