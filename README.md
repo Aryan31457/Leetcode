@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0056-merge-intervals) |
+| [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan31457/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryan31457/Leetcode/tree/master/0135-candy) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
+| [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0890-lemonade-change](https://github.com/Aryan31457/Leetcode/tree/master/0890-lemonade-change) |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Aryan31457/Leetcode/tree/master/0135-candy) |
 | [0239-sliding-window-maximum](https://github.com/Aryan31457/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan31457/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
+| [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Aryan31457/Leetcode/tree/master/0494-target-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
