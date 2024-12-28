@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1078-remove-outermost-parentheses](https://github.com/Aryan31457/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/Aryan31457/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aryan31457/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [3114-beautiful-towers-i](https://github.com/Aryan31457/Leetcode/tree/master/3114-beautiful-towers-i) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Aryan31457/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryan31457/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -224,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan31457/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1917-maximum-average-pass-ratio](https://github.com/Aryan31457/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aryan31457/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [3114-beautiful-towers-i](https://github.com/Aryan31457/Leetcode/tree/master/3114-beautiful-towers-i) |
 ## Simulation
@@ -334,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/Aryan31457/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2164-two-best-non-overlapping-events](https://github.com/Aryan31457/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
