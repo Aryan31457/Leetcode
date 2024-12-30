@@ -5,19 +5,19 @@ public:
         vector<vector<int>> visited(m, vector<int>(n, -1));
         vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
         queue<pair<int,int>>q;
-        bool flag=false;
-        for(int i=0;i<m;i++){
+        // bool flag=false;
+        // for(int i=0;i<m;i++){
           
-            for(int j=0;j<n;j++){
-                if(adj[i][j]==1){
-                    flag=true;
-                    visited[i][j]=1;
-                    q.push({i,j});
-                    break;
-                }
-            }
-              if(flag)break;
-        }
+        //     for(int j=0;j<n;j++){
+        //         if(adj[i][j]==1){
+        //             flag=true;
+        //             visited[i][j]=1;
+        //             q.push({i,j});
+        //             break;
+        //         }
+        //     }
+        //       if(flag)break;
+        // }
            for(int i=0;i<m;i++){
             if(adj[i][0]==1){
                 q.push({i,0});
