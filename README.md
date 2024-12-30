@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aryan31457/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aryan31457/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Aryan31457/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aryan31457/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Aryan31457/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/Aryan31457/Leetcode/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Aryan31457/Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -412,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/Aryan31457/Leetcode/tree/master/0547-number-of-provinces) |
 | [3189-find-champion-ii](https://github.com/Aryan31457/Leetcode/tree/master/3189-find-champion-ii) |
 ## Math
 |  |
@@ -475,4 +478,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0494-target-sum](https://github.com/Aryan31457/Leetcode/tree/master/0494-target-sum) |
+## Union Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Aryan31457/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
