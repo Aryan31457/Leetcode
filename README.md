@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0120-triangle](https://github.com/Aryan31457/Leetcode/tree/master/0120-triangle) |
 | [0130-surrounded-regions](https://github.com/Aryan31457/Leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Aryan31457/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/Aryan31457/Leetcode/tree/master/0135-candy) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/Aryan31457/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/Aryan31457/Leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
+| [0120-triangle](https://github.com/Aryan31457/Leetcode/tree/master/0120-triangle) |
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Aryan31457/Leetcode/tree/master/0494-target-sum) |
