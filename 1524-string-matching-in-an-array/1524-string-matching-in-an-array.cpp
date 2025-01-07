@@ -1,30 +1,22 @@
 class Solution {
 public:
     vector<string> stringMatching(vector<string>& words) {
-        unordered_map<string ,int>mappi;
 
-        for(auto i:words)mappi[i]++;
+        vector<string>ans;
         int n=words.size();
-        set<string>ans;
-        for(int i=0;i<n;i++){
-            string x=words[i];
-            int m=x.size();
-            for(int j=0;j<m;j++){
-                string temp;
-                for(int k=j;k<m;k++){
-                    temp+=x[k];
-                    if(mappi[temp]>0 && temp!=x){
-                        ans.insert(temp);
-                    }
-                }
+         for (int i = 0; i < words.size(); i++) {
+            for (int j = 0; j < words.size(); j++) {
+               if (i != j) {
+                   auto found = words[j].find(words[i]);
+                   //npos -> not found at any position returns -1
+                   if (found != string::npos) {
+                       ans.push_back(words[i]);
+                       break;
+                   }
+               }
             }
-            
         }
-        vector<string>result;
-        for(auto i:ans){
-            result.push_back(i);
-        }
-        return result;
+        return ans;
 
     }
 };
