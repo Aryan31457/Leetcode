@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan31457/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan31457/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2055-describe-the-painting](https://github.com/Aryan31457/Leetcode/tree/master/2055-describe-the-painting) |
 | [2164-two-best-non-overlapping-events](https://github.com/Aryan31457/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2245-destroying-asteroids](https://github.com/Aryan31457/Leetcode/tree/master/2245-destroying-asteroids) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Aryan31457/Leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Aryan31457/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan31457/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Aryan31457/Leetcode/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Aryan31457/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan31457/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1755-defuse-the-bomb](https://github.com/Aryan31457/Leetcode/tree/master/1755-defuse-the-bomb) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Aryan31457/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1646-kth-missing-positive-number](https://github.com/Aryan31457/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Aryan31457/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2047-find-a-peak-element-ii](https://github.com/Aryan31457/Leetcode/tree/master/2047-find-a-peak-element-ii) |
