@@ -12,7 +12,7 @@ public:
         }
         int odd=0;
         for(int i=0;i<26;i++){
-        if(cnt[i]%2==1)odd++;
+        if(cnt[i]&1==1)odd++;
         }
         if(odd<=k)return true;
         return false;
