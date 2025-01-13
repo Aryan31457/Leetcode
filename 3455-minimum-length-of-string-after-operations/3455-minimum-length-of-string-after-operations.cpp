@@ -1,24 +1,16 @@
 class Solution {
 public:
     int minimumLength(string s) {
-        int n=s.size();
-        unordered_map<int, int> mappi1;
-        for (auto i : s)
-            mappi1[i - 'a']++;
-
-        int cnt = 0;
-
-        unordered_map<int, int> mappi2;
-
-        for (auto i : s) {
-            mappi1[i-'a']--;
-            if (mappi1[i - 'a'] > 0 && mappi2[i - 'a'] > 0){
-                mappi1[i-'a']--;
-                mappi2[i-'a']--;
-                cnt+=2;
-            }
-            mappi2[i-'a']++;
+      
+        vector<int>cnt(26);
+        for(char c:s) cnt[c-'a']++;
+        int res = 0;
+        for(int i=0;i<26;i++)
+        {   if(cnt[i]!=0){
+            if(cnt[i]%2==1){res +=  1;} 
+            else{res += 2;}
         }
-        return n-cnt;
+        }
+        return res;
     }
 };
