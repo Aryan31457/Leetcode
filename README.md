@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1250-longest-common-subsequence](https://github.com/Aryan31457/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Aryan31457/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Aryan31457/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan31457/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1502-construct-k-palindrome-strings](https://github.com/Aryan31457/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1524-string-matching-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Aryan31457/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1063-best-sightseeing-pair](https://github.com/Aryan31457/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/Aryan31457/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Aryan31457/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Aryan31457/Leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [2164-two-best-non-overlapping-events](https://github.com/Aryan31457/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Aryan31457/Leetcode/tree/master/2794-maximum-number-of-moves-in-a-grid) |
