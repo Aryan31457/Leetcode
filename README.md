@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aryan31457/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0443-string-compression](https://github.com/Aryan31457/Leetcode/tree/master/0443-string-compression) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Aryan31457/Leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryan31457/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0812-rotate-string](https://github.com/Aryan31457/Leetcode/tree/master/0812-rotate-string) |
 | [0878-shifting-letters](https://github.com/Aryan31457/Leetcode/tree/master/0878-shifting-letters) |
 | [0952-word-subsets](https://github.com/Aryan31457/Leetcode/tree/master/0952-word-subsets) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Aryan31457/Leetcode/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Aryan31457/Leetcode/tree/master/0435-non-overlapping-intervals) |
 | [0494-target-sum](https://github.com/Aryan31457/Leetcode/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Aryan31457/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Aryan31457/Leetcode/tree/master/0518-coin-change-ii) |
 | [0542-01-matrix](https://github.com/Aryan31457/Leetcode/tree/master/0542-01-matrix) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
