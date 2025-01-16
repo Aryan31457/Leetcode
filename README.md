@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Aryan31457/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Aryan31457/Leetcode/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Aryan31457/Leetcode/tree/master/0456-132-pattern) |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryan31457/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Aryan31457/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan31457/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/Aryan31457/Leetcode/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan31457/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0494-target-sum](https://github.com/Aryan31457/Leetcode/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/Aryan31457/Leetcode/tree/master/0518-coin-change-ii) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Aryan31457/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Aryan31457/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Aryan31457/Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/Aryan31457/Leetcode/tree/master/0456-132-pattern) |
 | [0780-max-chunks-to-make-sorted](https://github.com/Aryan31457/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0883-car-fleet](https://github.com/Aryan31457/Leetcode/tree/master/0883-car-fleet) |
 | [0943-sum-of-subarray-minimums](https://github.com/Aryan31457/Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Aryan31457/Leetcode/tree/master/0456-132-pattern) |
 | [0713-subarray-product-less-than-k](https://github.com/Aryan31457/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Aryan31457/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1185-find-in-mountain-array](https://github.com/Aryan31457/Leetcode/tree/master/1185-find-in-mountain-array) |
@@ -601,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0456-132-pattern](https://github.com/Aryan31457/Leetcode/tree/master/0456-132-pattern) |
 | [2868-continuous-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/2868-continuous-subarrays) |
 ## Backtracking
 |  |
