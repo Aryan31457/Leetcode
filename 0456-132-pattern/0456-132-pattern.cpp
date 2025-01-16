@@ -10,7 +10,7 @@ public:
             }
             else {
                 while(!s.empty() && s.top()<nums[i]){
-                    smax=max(smax,s.top());
+                    smax=s.top();
                     s.pop();
                 }
             } 
