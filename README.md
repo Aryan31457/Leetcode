@@ -310,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/Aryan31457/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2055-describe-the-painting](https://github.com/Aryan31457/Leetcode/tree/master/2055-describe-the-painting) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Aryan31457/Leetcode/tree/master/2145-grid-game) |
 | [2164-two-best-non-overlapping-events](https://github.com/Aryan31457/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2227-sum-of-subarray-ranges](https://github.com/Aryan31457/Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
@@ -417,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Aryan31457/Leetcode/tree/master/1972-rotating-the-box) |
 | [2047-find-a-peak-element-ii](https://github.com/Aryan31457/Leetcode/tree/master/2047-find-a-peak-element-ii) |
 | [2089-maximum-matrix-sum](https://github.com/Aryan31457/Leetcode/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Aryan31457/Leetcode/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryan31457/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Aryan31457/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2737-row-with-maximum-ones](https://github.com/Aryan31457/Leetcode/tree/master/2737-row-with-maximum-ones) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Aryan31457/Leetcode/tree/master/1940-maximum-xor-for-each-query) |
 | [2055-describe-the-painting](https://github.com/Aryan31457/Leetcode/tree/master/2055-describe-the-painting) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Aryan31457/Leetcode/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/Aryan31457/Leetcode/tree/master/2145-grid-game) |
 | [2358-number-of-ways-to-split-array](https://github.com/Aryan31457/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2465-shifting-letters-ii](https://github.com/Aryan31457/Leetcode/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Aryan31457/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
