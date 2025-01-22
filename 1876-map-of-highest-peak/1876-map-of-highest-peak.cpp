@@ -1,44 +1,43 @@
 class Solution {
 public:
-    void bfs( queue<pair<int,int>>&q,vector<vector<int>>& adj,vector<vector<int>>&visited){
-        int m = adj.size(), n = adj[0].size();
-        vector<pair<int, int>> directions = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
+    bool isValid(int i,int j, int row,int col){
+        if(row>=i || col>=j ||row<0 || col<0)return false;
+        return true;
+    }
+    vector<vector<int>> highestPeak(vector<vector<int>>& isWater) {
+        int n=isWater.size(),m=isWater[0].size();
+        vector<vector<int>>dirs={{-1,0},{0,-1},{1,0},{0,1}};
+        vector<vector<int>>ans(n,vector<int>(m,0));
+        vector<vector<int>>visited(n,vector<int>(m,-1));
+        
+        queue<pair<int,int>>q;
+
+        for(int i=0;i<n;i++){
+            for(int j=0;j<m;j++){
+                if(isWater[i][j]){
+                    q.push({i,j});
+                    visited[i][j]=1;
+                    }
+            }
+        }
         int cnt=1;
         while(!q.empty()){
             int x=q.size();
             for(int i=0;i<x;i++){
-                auto [row, col] = q.front();
+                auto [row,col]=q.front();
                 q.pop();
-                for (auto [dx, dy] : directions) {
-                    int newRow = row + dx;
-                    int newCol = col + dy;
-
-if (newRow >= 0 && newRow < m && newCol >= 0 && newCol < n && visited[newRow][newCol]==0 ) {
-                        adj[newRow][newCol] = cnt;
-                        visited[newRow][newCol]=1;
-                        q.push({newRow, newCol});
+                for(int i=0;i<4;i++){
+                    int nrow=row+dirs[i][0];
+                    int ncol=col+dirs[i][1];
+                    if(isValid(n,m,nrow,ncol) && visited[nrow][ncol]==-1){
+                        q.push({nrow,ncol});
+                         visited[nrow][ncol]=1;
+                         ans[nrow][ncol]=cnt;
                     }
                 }
             }
-           cnt++;
+            cnt++;
         }
-    }
-    vector<vector<int>> highestPeak(vector<vector<int>>& adj) {
-        int m = adj.size(), n = adj[0].size();
-        vector<vector<int>>result(m,vector<int>(n,0));
-         queue<pair<int,int>>q;
-        vector<vector<int>>visited(m,vector<int>(n,0));
-        for(int i=0;i<m;i++){
-            for(int j=0;j<n;j++){
-                result[i][j]=adj[i][j];
-                if(adj[i][j]==1){
-                  visited[i][j] = 1;
-                  result[i][j]=0;
-                  q.push({i,j});
-                }
-            }
-        }
-        bfs(q,result,visited);
-        return result;
+    return ans;
     }
 };
