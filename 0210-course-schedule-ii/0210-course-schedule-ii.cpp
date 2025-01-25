@@ -7,8 +7,8 @@ public:
         unordered_map<int,vector<int>>adj;
         int c=0;
         for(int i=0;i<pre.size();i++){  
-                adj[pre[i][0]].push_back(pre[i][1]);
-                outdegree[pre[i][1]]++;
+            adj[pre[i][1]].push_back(pre[i][0]);
+            outdegree[pre[i][0]]++;
         } 
 
         for(int i=0;i<n;i++){
@@ -28,9 +28,8 @@ public:
                     q.push(i);
                 }
             }
-        }
-        reverse(ans.begin(),ans.end());
+        }     
 
-          return ans.size() == n ? ans : vector<int>{};
+        return ans.size() == n ? ans : vector<int>{};
     }
 };
