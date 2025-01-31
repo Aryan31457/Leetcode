@@ -413,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/Aryan31457/Leetcode/tree/master/0043-multiply-strings) |
 | [0735-asteroid-collision](https://github.com/Aryan31457/Leetcode/tree/master/0735-asteroid-collision) |
 | [2232-adding-spaces-to-a-string](https://github.com/Aryan31457/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Aryan31457/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [2317-count-collisions-on-a-road](https://github.com/Aryan31457/Leetcode/tree/master/2317-count-collisions-on-a-road) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Aryan31457/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Aryan31457/Leetcode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -598,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Aryan31457/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Aryan31457/Leetcode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Aryan31457/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
+| [2278-find-three-consecutive-integers-that-sum-to-a-given-number](https://github.com/Aryan31457/Leetcode/tree/master/2278-find-three-consecutive-integers-that-sum-to-a-given-number) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Aryan31457/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Memoization
 |  |
