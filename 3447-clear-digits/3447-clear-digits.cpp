@@ -3,16 +3,22 @@ public:
     string clearDigits(string s) {
         string ans;
         int n=s.size();
+        stack<char>temp;
         for(int i=0;i<n;i++){
             if(isalpha(s[i])){
-                ans+=s[i];
+                temp.push(s[i]);
             }
             else{
-                if(ans.size()>0){
-                ans.erase(ans.size()-1,1);
-                }
+              if(!temp.empty()){
+                temp.pop();
+              }
             }
         }
+        while(!temp.empty()){
+            ans+=temp.top();
+            temp.pop();
+        }
+        reverse(ans.begin(),ans.end());
         return ans;
     }
 };
